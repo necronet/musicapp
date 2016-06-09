@@ -1,0 +1,4 @@
+development:
+    SUPER_SECRET_KEY: 'FALSE_KEY'
+    SUPER_SECRET_ID: 'FALSE_ID'
+    
